@@ -1,4 +1,4 @@
-StdRfolge,DlaufRfolg,Punkttyp,Blöcke,DataSize,BatchSize,Epochs,L1Size,L2Size,L3Size,Learningrate
+StdRfolge,DlaufRfolg,Punkttyp,Bloecke,DataSize,BatchSize,Epochs,L1Size,L2Size,L3Size,Learningrate
 1,1,2,1,0,1,1,1,1,1,1
 2,2,2,1,0,-1,-1,-1,-1,-1,-1
 3,3,2,1,1,0,1,-1,1,-1,-1
